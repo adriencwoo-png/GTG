@@ -1,15 +1,20 @@
 {
   "FolderOrderSettings":[
+    {"name":"Notes","order":9,"path":"folders/Notes.yy",},
     {"name":"objects","order":7,"path":"folders/objects.yy",},
     {"name":"sprites","order":8,"path":"folders/sprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"oApple","order":8,"path":"objects/oApple/oApple.yy",},
     {"name":"oBoss","order":5,"path":"objects/oBoss/oBoss.yy",},
+    {"name":"oCoin","order":7,"path":"objects/oCoin/oCoin.yy",},
     {"name":"oGhost","order":1,"path":"objects/oGhost/oGhost.yy",},
     {"name":"oGhostLaser","order":3,"path":"objects/oGhostLaser/oGhostLaser.yy",},
     {"name":"oGlobal","order":6,"path":"objects/oGlobal/oGlobal.yy",},
     {"name":"oPlayerLaser","order":4,"path":"objects/oPlayerLaser/oPlayerLaser.yy",},
     {"name":"oWall","order":2,"path":"objects/oWall/oWall.yy",},
+    {"name":"sApple","order":7,"path":"sprites/sApple/sApple.yy",},
+    {"name":"sCoin","order":6,"path":"sprites/sCoin/sCoin.yy",},
     {"name":"sGhost","order":1,"path":"sprites/sGhost/sGhost.yy",},
     {"name":"sGhostLaser","order":2,"path":"sprites/sGhostLaser/sGhostLaser.yy",},
     {"name":"sPlayer","order":3,"path":"sprites/sPlayer/sPlayer.yy",},

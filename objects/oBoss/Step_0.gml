@@ -38,4 +38,8 @@ if (laser_ring_timer >= laser_ring_delay)
     laser_ring_angle += 11.25;
 }
 if global.bosshp = 0
-{instance_destroy()}
+{instance_destroy()
+	global.points+=100}
+	
+	
+ 

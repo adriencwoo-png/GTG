@@ -1,5 +1,5 @@
 draw_set_color(c_white)
 draw_text(50,10, "HP:" + string(global.hp))
 draw_set_color(c_white)
-draw_text(50,20, "Boss HP:" + string(global.bosshp))
-draw_text(300,20, "Points:" + string(global.points))
+draw_text(50,30, "Boss HP:" + string(global.bosshp))
+draw_text(300,10, "Points:" + string(global.points))

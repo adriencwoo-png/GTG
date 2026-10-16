@@ -1,6 +1,6 @@
 {
   "$GMProject":"v1",
-  "%Name":"GetTheGhostStartModifying",
+  "%Name":"GTG 1",
   "AudioGroups":[
     {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -10,6 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"objects","folderPath":"folders/objects.yy","name":"objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"sprites","folderPath":"folders/sprites.yy","name":"sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
@@ -20,9 +21,12 @@
   "MetaData":{
     "IDEVersion":"2026.0.0.16",
   },
-  "name":"GetTheGhostStartModifying",
+  "name":"GTG 1",
   "resources":[
+    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
+    {"id":{"name":"oApple","path":"objects/oApple/oApple.yy",},},
     {"id":{"name":"oBoss","path":"objects/oBoss/oBoss.yy",},},
+    {"id":{"name":"oCoin","path":"objects/oCoin/oCoin.yy",},},
     {"id":{"name":"oGhost","path":"objects/oGhost/oGhost.yy",},},
     {"id":{"name":"oGhostLaser","path":"objects/oGhostLaser/oGhostLaser.yy",},},
     {"id":{"name":"oGlobal","path":"objects/oGlobal/oGlobal.yy",},},
@@ -30,7 +34,9 @@
     {"id":{"name":"oPlayerLaser","path":"objects/oPlayerLaser/oPlayerLaser.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sApple","path":"sprites/sApple/sApple.yy",},},
     {"id":{"name":"sBoss","path":"sprites/sBoss/sBoss.yy",},},
+    {"id":{"name":"sCoin","path":"sprites/sCoin/sCoin.yy",},},
     {"id":{"name":"sGhost","path":"sprites/sGhost/sGhost.yy",},},
     {"id":{"name":"sGhostLaser","path":"sprites/sGhostLaser/sGhostLaser.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},

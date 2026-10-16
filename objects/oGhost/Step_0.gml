@@ -1,4 +1,4 @@
-Counter=irandom_range(1,90)
+Counter=irandom_range(1,180)
 if Counter = 1
 {
 	eid=instance_create_depth(x,y,0,oGhostLaser)
