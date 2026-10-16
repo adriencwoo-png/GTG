@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings":[
+    {"name":"objects","order":7,"path":"folders/objects.yy",},
+    {"name":"sprites","order":8,"path":"folders/sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oBoss","order":5,"path":"objects/oBoss/oBoss.yy",},
+    {"name":"oGhost","order":1,"path":"objects/oGhost/oGhost.yy",},
+    {"name":"oGhostLaser","order":3,"path":"objects/oGhostLaser/oGhostLaser.yy",},
+    {"name":"oGlobal","order":6,"path":"objects/oGlobal/oGlobal.yy",},
+    {"name":"oPlayerLaser","order":4,"path":"objects/oPlayerLaser/oPlayerLaser.yy",},
+    {"name":"oWall","order":2,"path":"objects/oWall/oWall.yy",},
+    {"name":"sGhost","order":1,"path":"sprites/sGhost/sGhost.yy",},
+    {"name":"sGhostLaser","order":2,"path":"sprites/sGhostLaser/sGhostLaser.yy",},
+    {"name":"sPlayer","order":3,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"sPlayerLaser","order":4,"path":"sprites/sPlayerLaser/sPlayerLaser.yy",},
+    {"name":"sWall","order":5,"path":"sprites/sWall/sWall.yy",},
+  ],
+}
