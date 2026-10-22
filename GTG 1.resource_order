@@ -6,6 +6,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"oApple","order":8,"path":"objects/oApple/oApple.yy",},
+    {"name":"Object11","order":10,"path":"objects/Object11/Object11.yy",},
     {"name":"oBoss","order":5,"path":"objects/oBoss/oBoss.yy",},
     {"name":"oCoin","order":7,"path":"objects/oCoin/oCoin.yy",},
     {"name":"oGhost","order":1,"path":"objects/oGhost/oGhost.yy",},
@@ -19,6 +20,8 @@
     {"name":"sGhostLaser","order":2,"path":"sprites/sGhostLaser/sGhostLaser.yy",},
     {"name":"sPlayer","order":3,"path":"sprites/sPlayer/sPlayer.yy",},
     {"name":"sPlayerLaser","order":4,"path":"sprites/sPlayerLaser/sPlayerLaser.yy",},
+    {"name":"Sprite10","order":9,"path":"sprites/Sprite10/Sprite10.yy",},
+    {"name":"sTower","order":8,"path":"sprites/sTower/sTower.yy",},
     {"name":"sWall","order":5,"path":"sprites/sWall/sWall.yy",},
   ],
 }

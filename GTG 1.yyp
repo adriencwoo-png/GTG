@@ -25,6 +25,7 @@
   "resources":[
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"oApple","path":"objects/oApple/oApple.yy",},},
+    {"id":{"name":"Object11","path":"objects/Object11/Object11.yy",},},
     {"id":{"name":"oBoss","path":"objects/oBoss/oBoss.yy",},},
     {"id":{"name":"oCoin","path":"objects/oCoin/oCoin.yy",},},
     {"id":{"name":"oGhost","path":"objects/oGhost/oGhost.yy",},},
@@ -41,6 +42,8 @@
     {"id":{"name":"sGhostLaser","path":"sprites/sGhostLaser/sGhostLaser.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sPlayerLaser","path":"sprites/sPlayerLaser/sPlayerLaser.yy",},},
+    {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},},
+    {"id":{"name":"sTower","path":"sprites/sTower/sTower.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
   ],
   "resourceType":"GMProject",

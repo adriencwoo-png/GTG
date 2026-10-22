@@ -10,7 +10,7 @@ gid.direction=0||180
 
 /// oBoss - Step Event
 
-laser_ring_timer += 1;
+laser_ring_timer += 0.5;
 
 if (laser_ring_timer >= laser_ring_delay)
 {
